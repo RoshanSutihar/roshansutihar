@@ -25,9 +25,9 @@ Welcome to my GitHub profile! I'm passionate about developing software and worki
 - **[Email Messaging App ](https://github.com/RoshanSutihar/messaging-app)**: A custom In-House email messaging app that works on username and doesn't need any domain at the back.
 - **[Meter Reading System](https://github.com/RoshanSutihar/Meter-Reading-System)**: A web-based system that automates meter readings, bill generation, and sends alerts via email and text.
 
-## 📈 GitHub Stats
+<!--## 📈 GitHub Stats
 ![Roshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RoshanSutihar&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
-
+-->
 Feel free to explore my repositories and let's connect if you're interested in any collaboration! 🚀
 
 <!--
