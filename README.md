@@ -46,11 +46,4 @@ A multi-tenant traffic throttling middleware built in **Java 21 & Spring Boot 3*
 
 ---
 
-## 📈 GitHub Stats
-
-![Roshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RoshanSutihar&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RoshanSutihar&layout=compact&theme=radical)
-
----
-
 Feel free to explore my repositories or reach out if you'd like to collaborate on backend systems! 🚀
